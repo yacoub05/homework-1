@@ -96,39 +96,39 @@ Please edit this file to add your answers to the following questions.
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? localhost
+* What is the port number? 4000
+* What is the path? admin
+* What are the query parameters? it doesnt have one
+* What is the fragment? there is no fragment 
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? lehman.edu
+* What is the port number? no port number
+* What is the path? academics/mathematics-computer-science
+* What are the query parameters? index.php
+* What is the fragment? no fragment
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? https
+* What is the host? en.wikipedia.org
+* What is the port number? no port number
+* What is the path? wiki
+* What are the query parameters?Greek_alphabet
+* What is the fragment? GLyph_variants`
 
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS?
+What does the S stand for in HTTPS? SECURE
 
-Why is HTTPS better than HTTP?
+Why is HTTPS better than HTTP? it is better because it is more secure and all communications is encrypted
 
-Should all web pages use HTTPS?
+Should all web pages use HTTPS? yes all webpages should use  https because the user would feel more confident
 
 
 ## Webpages
@@ -141,22 +141,28 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-*Your answer here.*
+*Your answer here.*it  is a hypertext document that is connected to the world wide web
+
 
 
 ### 11. Webpage I like
 
 What's one webpage you like? Why?
 
+i like youtube
+
 
 ### 12. Website I don’t like
 
 What's one webpage you like? Why?
 
+i dont like cunyfirst because when you click back its starts acting funny.
+
 
 ### 13. Resources
 
 Where is a good place to look for information about HTML tags?
+w3schools
 
 
 ### 14. HTML Versions
